@@ -1,7 +1,8 @@
 ![](capa.png)
+
 # Poliana Moraes, MSc, CISSP
 
-Engenheira de Cibersegurança com experiência em GRC (Governança, Risco e Conformidade) e Desenvolvimento Seguro (Security by Design)
+Profissional com mais de 18 anos de experiênca com carreira atualmente focada em Engenharia de Cibersegurança nas áreas de concentração de GRC (Governança, Risco e Conformidade) e Desenvolvimento Seguro (Security by Design)
 
 ## Experiência em:
 + Desenvolvimento de produtos desde 2006

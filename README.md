@@ -10,7 +10,3 @@ Engenheira de Cibersegurança com experiência em GRC (Governança, Risco e Conf
 + Conformidade em ambientes altamente regulados desde 2008
 + Segurança da informação e cibersegurança desde 2019
 + Governança desde de 2020
-
-## Artigos Científicos Publicados
-
-## Publicações
